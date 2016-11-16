@@ -1,49 +1,36 @@
 // questions must be less than 104 characters
 // answers must be less than 18 characters
 var data = [
-  ['A function declared in stdio.h', [
-    'printf', 68,
-    'scanf', 12,
-    'fopen', 10,
-    'fgetc', 5,
-    'fclose', 5
+  ['Name your favorite language.', [
+    'Python', 66,
+    'C', 14,
+    'JavaScript', 14
+    'Java', 3,
+    'English', 2,
+    'Spanish', 1
   ]],
-  ['Software used while programming', [
-    'Text Editor', 28,
-    'Compiler', 23,
-    'Debugger', 15,
-    'Facebook', 15,
-    'Browser', 13,
-    'Spotify', 6
+  ['Name your favorite function.', [
+    'printf', 60,
+    'fopen', 18,
+    'scanf', 7,
+    'fclose', 6,
+    'fseek', 6,
+    'fread', 3
   ]],
-  ["I'm never gonna...", [
-    'Give you up', 28,
-    'Let you down', 16,
-    'Run around and desert you', 15,
-    'Make you cry', 15,
-    'Say goodbye', 14,
-    'Tell a lie and hurt you', 12
+  ["Name your favorite algorithm.", [
+    'Bubble Sort', 41,
+    'Binary Search', 25,
+    'Merge Sort', 22,
+    "Dijkstra's Algorithm", 6,
+    'Insertion Sort', 11,
+    'Bogosort', 3
   ]],
-  ['Favorite problem set', [
-    'pset7 / C$50 Finance', 27,
-    'pset0 / Scratch', 26,
-    'pset2 / Crypto', 25,
-    'pset3 / Game of Fifteen', 22
-  ]],
-  ['What would be the wrong way to go with sorting a list of a million 32-bit integers?', [
-    'Bubble Sort', 42,
-    'Insertion Sort', 21,
-    'Selection Sort', 14,
-    'Merge Sort', 12,
-    'Quicksort', 6,
-    'Gnome Sort', 5
-  ]],
-  ['With what browser did you submit Problem Set 8?', [
-    'Chrome', 81,
-    'Safari', 12,
-    'Firefox', 4,
-    'Edge', 1,
-    'Internet Explorer', 1,
-    'Safari iPhone', 1
+  ["On which day do you usually start your pset?", [
+    'Fridays (3 days before due)', 26,
+    'Wednesdays', 23,
+    'Thursdays', 20,
+    "Saturdays (2 days before due)", 14,
+    'Tuesdays', 9,
+    'Mondays (3 days after release)', 8
   ]]
 ];
